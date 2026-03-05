@@ -571,7 +571,7 @@ If you use this project in your research, please cite:
   title={Human Body State Monitoring Using Biometric Signals},
   author={Saxena, Rishit},
   year={2025},
-  url={https://github.com/yourusername/Human-Body-State-Monitoring}
+  url={https://github.com/RishitSaxena55/Human-Body-State-Monitoring}
 }
 ```
 
@@ -600,8 +600,9 @@ Contributions are welcome! Please feel free to:
 
 For questions, suggestions, or collaboration inquiries, please contact:
 - **Author**: Rishit Saxena
-- **Email**: rishit@example.com
-- **GitHub**: [@rishit-saxena](https://github.com/rishit-saxena)
+- **Email**: [rishitsaxena55@gmail.com](mailto:rishitsaxena55@gmail.com)
+- **GitHub**: [@RishitSaxena55](https://github.com/RishitSaxena55)
+- **LinkedIn**: [Rishit Saxena](https://www.linkedin.com/in/rishit-saxena-12922531b/)
 
 ---
 
