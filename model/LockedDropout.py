@@ -1,3 +1,7 @@
+import torch
+import torch.nn as nn
+
+
 class LockedDropout(nn.Module):
     """ LockedDropout applies the same dropout mask to every time step.
 
